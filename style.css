@@ -1,0 +1,33 @@
+h1{
+    font-size: 50px;
+}
+
+    .red{
+        color: blue;
+    }
+    section{
+        display: flex;
+    }
+    .small{
+        width:20%;
+    }
+    .link-buttom{
+        text-decoration: none;
+        background-color:orange;
+        padding:10px 30px;
+    }
+.small-image{
+    width:2% ;
+}
+.image{
+    background-image: url(img/top-banner.png);
+    background-repeat:no-repeat ;
+
+}
+.image2{
+    background-image: url(img/dream-bg.png);
+    background-repeat:no-repeat ;
+    background-position: right;
+}
+
+ 
